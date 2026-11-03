@@ -1,6 +1,6 @@
-NETWORKWALKS-AUWAL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Week 1 - Project Module 1: Cybersecurity Lab Environment Setup
-Objective
+# NETWORKWALKS-AUWAL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# Week 1 - Project Module 1: Cybersecurity Lab Environment Setup
+# Objective
 Set up a Cybersecurity testing lab environment on a host machine using VirtualBox and Kali Linux as the attacking virtual machine.
 
 Requirements Met
